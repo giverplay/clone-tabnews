@@ -1,5 +1,13 @@
 function Home() {
-  return <h1>Pois, sabendo que o Senhor estava comigo, criei coragem.</h1>;
+  return (
+    <>
+      <h1>Em construção</h1>
+      <span>
+        Futuramente aqui se encontrará o Foca News, trazendo notícias e artigos
+        relacionados ao gamedev.
+      </span>
+    </>
+  );
 }
 
 export default Home;
